@@ -4,4 +4,5 @@
 $$ax^2+bx+c=0$$
 其中a , b , c 是输入参数
 $$x = \frac{{-b \pm \sqrt{{b^2 - 4ac}}}}{{2a}}$$
-![Image](https://github.com/users/FlyingCarp/projects/2/assets/48175226/a9e0ad15-0729-451c-b8eb-0a37e4de83c3)
+
+    ![image](https://github.com/FlyingCarp/a-quadratic-equation-solving-program-including-complex-roots./assets/48175226/1f92b1eb-48c3-4730-8ce7-efc45ee02450)
