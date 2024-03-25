@@ -1,4 +1,4 @@
-# -a-quadratic-equation-solving-program-including-complex-roots.
+# 一元二次方程计算器
 一个基于python的一元二次方程求解的程序，输入ax^2+bx+c=0的参数a,b,c即可求出方程的解。
 基于韦达定理的一元二次方程求解程序：
 $$ax^2+bx+c=0$$
